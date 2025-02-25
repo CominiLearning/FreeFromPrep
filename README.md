@@ -6,7 +6,14 @@ We think exams are outdated and obsolete. There are better ways to measure compe
 
 Free and open-source means free access to everyone without any expensive coaching classes or tutorials. AI makes it possible. Here is something we put together in under 24 hours [Demo Prep Copilot](https://tryripples.comini.in/)
 
-We want your help to make it better. And we are offering grants from Rs. 10,000 to Rs. 1 Lakh to students across India to work on this.
+![Demo FreeFromPrep Copilot](https://github.com/CominiLearning/FreeFromPrep/blob/main/freefromprep.png)
+
+
+**We want your help to make it better**. 
+
+## **And we are offering grants from Rs. 10,000 to Rs. 1 Lakh** in partnership with [3F VC (Frugal Founders' Fund)](https://3f.vc/)
+
+We are offering multiple grants to students across India to make this bigger & better!
 
 >This is an excellent opportunity to showcase your skills while contributing to educational technology. All contributions will be publicly available, and any features or improvements that are incorporated into the project **will be credited to their creators**.
 
