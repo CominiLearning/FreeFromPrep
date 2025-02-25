@@ -116,8 +116,6 @@ It is mentioned above, but worth reiterating. The application should be usable o
 
 **Anyone can learn anything!**
 
-**Anyone can learn anything!**
-
 We are [Comini Learning](https://www.comini.in/).
 
 We truly believe this, and we are building an ecosystem of tools to help make it happen. Starting with early education, we're creating a new, **playful, personalized, and meaningful way of learning**.
