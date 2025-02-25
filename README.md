@@ -4,7 +4,7 @@
 
 We think exams are outdated and obsolete. There are better ways to measure competence and readiness in 2025. And yet exams are a big part of our lives and will continue to be for a few years. We want to enable deeper learning by first allowing people to crack exams effortlessly. FreeFromPrep is, and will be, an open-source, free exam prep service for all Indians. Whether it is CBSE exams for 7th class or CTET exams. We can build this together.
 
-Free and open-source means free access to everyone without any expensive coaching classes or tutorials. AI makes it possible. Here is something we put together in under 24 hours [Demo Prep Copilot](https://tryripples.comini.in/)
+Free and open-source means free access to everyone without any expensive coaching classes or tutorials. AI makes it possible. Here is something we put together in under 24 hours [Demo Prep Copilot]([https://tryripples.comini.in/](https://tryripples.comini.in/freefromprep))
 
 ![Demo FreeFromPrep Copilot](https://github.com/CominiLearning/FreeFromPrep/blob/main/freefromprep.png)
 
