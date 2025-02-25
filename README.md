@@ -32,32 +32,8 @@ Your application should include:
 
 **IMPORTANT**: Please do NOT drown your voice with ChatGPT or any other AI tool. We want to see your authentic self. Consider that LLM/AI enhancements are like makeup. You want to be sparing in its use.
 
-### **Backend (FastAPI)**
 
-1. **API Development**
-    - Endpoints for question retrieval and submission
-    - User progress tracking
-    - Authentication token validation
-2. **Data Management**
-    - Question schemas using Pydantic
-    - Progress tracking
-    - Error handling
-    - Test coverage
-3. **AI Integration**
-    - API endpoints for AI-powered feedback
-    - Question generation capabilities
-    - Answer evaluation and explanation
-
-## **Evaluation Criteria**
-
-- Code organization and modularity
-- Application performance and responsiveness
-- User experience and accessibility
-- Multi-language support implementation
-- Authentication and data security
-- Documentation quality
-
-## **Additional Challenges**
+## **Problems You Can Work On**
 
 Here are a few ways you can contribute:
 - Make it work in other Indian languages
@@ -106,7 +82,7 @@ You can find the full license in the LICENSE file of this repository.
     - Set milestones
     - Identify potential challenges
     - Share your plan with us for feedback
-5. Start building!
+5. Email us & start building! 
 
 ## **Documentation Expectations**
 
