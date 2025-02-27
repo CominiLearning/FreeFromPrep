@@ -94,6 +94,5 @@ Assemble a one-stop prep platform for NEET (medical entrance) Biology, including
 
 ---
 
-## Sample Proposal: "A Hindi Tutor for Calculus"
+## [Sample Proposal: "A Hindi Tutor for Calculus"](https://github.com/CominiLearning/FreeFromPrep/blob/main/SampleProposal.md)
 
-*Note: This section will be added in the final document to provide guidance on structuring proposals.*
