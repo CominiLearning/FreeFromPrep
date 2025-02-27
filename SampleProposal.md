@@ -1,5 +1,7 @@
 # MVP Proposal: Hindi & Hinglish Tutor for Calculus (Approximate Build Time: Two/Three Weeks)
 
+Please refer to the [README](https://github.com/CominiLearning/FreeFromPrep/blob/main/README.md) for general information about FreeFromPrep and how to apply for grants. You can see our [Request For Proposals (RFP) here](https://github.com/CominiLearning/FreeFromPrep/blob/main/RFP.md).
+
 ## Problem Statement
 
 Many Class 11-12 students in India study mathematics in **Hindi or Hinglish** (a mix of Hindi and English terms), but most online learning resources for calculus are only in **pure English**. This creates a **language barrier**, making it difficult for students to understand concepts like **derivatives, integration, and limits**.
