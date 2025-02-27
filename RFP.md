@@ -1,4 +1,4 @@
-# **FreeFromPrep India-Focused RFP**
+# **FreeFromPrep: RFP**
 
 ## Request for Proposals
 
