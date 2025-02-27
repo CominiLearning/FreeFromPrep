@@ -2,7 +2,7 @@
 
 ## Request for Proposals
 
-This document outlines specific problem areas where innovative solutions are needed for the FreeFromPrep initiative. Please refer to the [README](README.md) for general information about FreeFromPrep and how to apply for grants.
+This document outlines specific problem areas where innovative solutions are needed for the FreeFromPrep initiative. Please refer to the [README](https://github.com/CominiLearning/FreeFromPrep/blob/main/README.md) for general information about FreeFromPrep and how to apply for grants. You can see a [sample proposal here](https://github.com/CominiLearning/FreeFromPrep/blob/main/SampleProposal.md).
 
 ## Why FreeFromPrep?
 
