@@ -48,6 +48,8 @@ Here are a few ways you can contribute:
 - Develop adaptive learning algorithms that respond to user performance
 - Build community features for peer-to-peer learning
 
+Here is a detailed **[Request For Proposals](https://github.com/CominiLearning/FreeFromPrep/blob/main/RFP.md)**, including a sample. Please feel free to pick any idea from [here](https://github.com/CominiLearning/FreeFromPrep/blob/main/RFP.md)
+
 ## **Why This Matters**
 
 FreeFromPrep is just the beginning. Your implementation will help establish patterns for future educational tools like:
